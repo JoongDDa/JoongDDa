@@ -7,6 +7,6 @@
   - Git&Github
   - Python
 ### 🏢 소속
-  - OZ코딩스쿨(BE_12)
+  - 오즈코딩스쿨(BE_12)
 ### 📫 연락처
   - 이메일 : ykl7159@naver.com
