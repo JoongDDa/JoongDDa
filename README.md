@@ -3,7 +3,7 @@
     개발 공부 중인 이중현입니다😊
 
 ### 📚 공부중
-  - Linux
+  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - Git&Github
   - Python
 ### 🏢 소속
